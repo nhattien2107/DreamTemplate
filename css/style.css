@@ -145,7 +145,7 @@ img {
 /* banner content */
 /* ------------------- */
 .container__banner {
-  width: 1519px;
+  width: 100%;
   height: 850px;
   display: grid;
   place-items: center;
